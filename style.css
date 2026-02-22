@@ -1,3 +1,23 @@
+header {
+  background-color: chocolate;
+}
+nav{
+  background-color: black;
+}
+main {
+  background-color: orangered;
+}
+footer {
+  background-color: aquamarine;
+}
+
+
+
+
+
+
+
+
 html, body{
   background-color: rgb(79, 190, 241);
 }
