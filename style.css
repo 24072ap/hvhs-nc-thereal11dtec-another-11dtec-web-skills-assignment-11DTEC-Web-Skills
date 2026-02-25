@@ -41,4 +41,11 @@ li a {
   text-decoration: none;
 }
 
+.list {
+  background-color: aqua;
 
+}
+.pics {
+  background-color: yellowgreen;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
