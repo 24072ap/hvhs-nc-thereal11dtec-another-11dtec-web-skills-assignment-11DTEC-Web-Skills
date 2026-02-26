@@ -49,3 +49,8 @@ li a {
   background-color: yellowgreen;
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
+.fav{
+  padding: 50px;
+  border-style: solid;
+  border-radius:20px;
+}
